@@ -2845,13 +2845,14 @@ body.host_version .first-section .effect-1.slide-btn::after{
 /**-------------- inner Page css ---------------**/
 
 .all-title-box{
-	background: url(images/banner.jpg)no-repeat;
+	background: url(images/slider-03.jpg)no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	background-position: center;
 	min-height: 300px;
+    opacity: 0.7;
 }
 
 .all-title-box h1{
