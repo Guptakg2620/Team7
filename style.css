@@ -466,7 +466,7 @@ a img.aligncenter {
 
 
 .top-navbar .bg-light{
-	background: #1C1C1C !important;
+	background: #060E14 !important;
 }
 
 .top-navbar .navbar-light .navbar-nav .nav-link{
@@ -3137,7 +3137,13 @@ span.m_1 {
 	border-bottom: none;
 	padding: 20px;
 	background: #f6f6f6;
+	
+	
+   
+    align-items: center;
 }
+
+
 
 .customer-box .nav-tabs > li > a.active{
 	border: none;
@@ -3884,5 +3890,100 @@ a.link-style3 {
 
 
 
+
+
+
+.buttondiv {
+    padding: 40px;
+    
+}
+
+.buttontitle {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.button {
+    margin: 0 auto;
+    width: 100%;
+   
+   
+}
+
+.vaccinate {
+    display:block;
+    margin: 0 auto;
+    width: 50%;
+   padding: 10px;
+    background-color: #fff;
+   border: 2px solid #000;
+    
+}
+.vaccinate :hover{
+    padding: 5px;
+     border: 3px dotted #000;
+    transition-duration: 0.3s;
+
+}
+
+.cowin {
+     background-image: url("images/1.jfif");
+}
+
+.image {
+    display:block;
+    margin: 0 auto;
+    width: 80%;
+  
+}
+
+
+.emergency :hover{
+    padding: 10px;
+    
+}
+
+.emergencybutton {
+     display:block;
+    margin: 0 auto;
+    width: 30%;
+   padding: 10px;
+    background-color:azure;
+   border: 2px solid #000;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 3px;
+    font-weight: 600;
+    font-size:17px;
+}
+.emergencybutton :hover{
+     font-size: 15px;
+    transition-duration: 0.3s;
+}
+
+
+
+.lists {
+	border: 2px dotted #1c1c1c;
+	padding: 5px;
+	text-align: center;
+	font-size: 25px;
+	text-decoration: none;
+	margin-left: 100px;
+	margin-bottom: 10px;
+	width: 250px;
+}
+.lists:hover{
+	cursor: pointer;
+	background: #AC9896;
+	color: aliceblue;
+	border: 2px solid #000;
+	text-decoration: none;
+	
+	transition-duration: 0.5s;
+	padding: 8px;
+}
 
 
